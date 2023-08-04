@@ -1,0 +1,140 @@
+/* Reset css */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Large box */
+#large-box {
+    background-color: rgb(220, 220, 220);
+    display: flex;
+}
+/* Dark mode */
+#box-left {
+    width: 660px;
+    height: 1176px;
+    top: 32px;
+    left: 48px;
+}
+
+.dark-box {
+    width: 660px;
+    height: 184px;
+    margin-top: 45px;
+    margin-left: 40px;
+    background-color: #25335A;
+    border-radius: 16px;
+    position: relative;
+}
+
+.all {
+    position: relative;
+}
+
+.img-1 {
+    margin-left: 376px;
+    margin-top: 12px;
+}
+
+.img-2 {
+    margin-left: 376px;
+    margin-top: -20px;
+}
+
+.img-3 {
+    margin-left: 396px;
+    margin-top: -8px;
+}
+
+.img-4 {
+    margin-left: 381px;
+    margin-top: -12px;
+}
+
+.img-5 {
+    margin-left: 354px;
+    margin-top: -28px;
+}
+
+.color-white {
+    position: absolute;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    font-size: 20px;
+    width: 230px;
+    height: 33px;
+    top: 72px;
+    left: 40px;
+}
+
+.color-white-2 {
+    position: absolute;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    font-size: 30px;
+    width: 263px;
+    height: 44px;
+    top: 105px;
+    left: 40px;
+}
+
+/* Light mode */
+.light-box {
+    margin-top: 45px;
+    margin-left: 90px;
+    color: #B65741;
+    background-color: #FFFFFF;
+    width: 660px;
+    height: 184px;
+    border-radius: 16px;
+}
+
+.phuc-1 {
+    width: 270px;
+    height: 33px;
+    font-family: Open Sans;
+    font-size: 24px;
+    position: absolute;
+    top: 72px;
+    left: 40px;
+}
+
+.phuc-2 {
+    width: 263px;
+    height: 44px; 
+    font-family: Open Sans;
+    font-size: 32px; 
+    position: absolute;
+    top: 105px;
+    left: 40px;
+}
+
+.all-2 {
+    position: relative;
+}
+
+.anh1 {
+    margin-top: 14px;
+    margin-left: 305px;
+}
+
+.anh2 {
+    margin-top: -10px;
+    margin-left: 376px;
+}
+
+.anh3 {
+    margin-left: 396px;
+    margin-top: -8px;
+}
+
+.anh4 {
+    margin-left: 381px;
+    margin-top: -12px;
+}
+
+.anh5 {
+    margin-left: 354px;
+    margin-top: -28px;
+}
